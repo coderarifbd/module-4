@@ -14,6 +14,7 @@
         echo $students[$i].PHP_EOL;
     }
 
+    
     /**
      * array function 
      * array_shift() - remove array first element and return the element
